@@ -14,13 +14,13 @@ This analysis answers a wide range of real estate-related questions, including:
 - What apartment sizes can be expected at different price ranges in various cities  
 - The **most expensive** listings per city, with ad title, cost, size, and suburb  
 - Ratio of **private vs business ads** on Otodom  
-- Average **sale prices** for apartments sized between 50–70 sqm in major cities  
+- Average **sale prices** for apartments sized between 50–70 m2 in major cities  
 - Rental pricing patterns in **Warsaw suburbs**, grouped by surface area:
-  - 0–50 sqm
-  - 50–100 sqm
-  - 100+ sqm  
+  - 0–50 m2
+  - 50–100 m2
+  - 100+ m2  
 - Top 3 **luxury neighborhoods** in Warsaw (listings over 2M PLN)  
-- Top 5 most **budget-friendly neighborhoods** for families looking for 40–60 sqm apartments  
+- Top 5 most **budget-friendly neighborhoods** for families looking for 40–60 m2 apartments  
 - Suburbs with the **highest and lowest number** of private ads in Warsaw  
 - Comparative analysis of **rental vs sale prices** in key cities  
 
@@ -41,7 +41,7 @@ Several preprocessing steps were performed to prepare the dataset for analysis:
 - Converted raw JSON data to a structured CSV format  
 - Translated property descriptions using the **Google Sheets API**  
 - Geocoded latitude/longitude data into physical addresses with **geopy**  
-- Cleaned the dataset by removing nulls and unnecessary special characters  
+
 
 ---
 
