@@ -55,7 +55,7 @@ This project includes  **SQL query files** (for hands-on analytics). You can:
 
 ---
 
-## 🧠 Insights & Impact
+##  Insights & Impact
 
 The final output offers valuable insights for:
 - **Homebuyers** comparing cities and neighborhoods  
@@ -64,6 +64,6 @@ The final output offers valuable insights for:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 By combining cloud data warehousing, geolocation services, and translation APIs, this project provides a holistic view of real estate dynamics in Poland. Whether you're a renter, buyer, investor, or data enthusiast, this analysis serves as a detailed reference to better understand the housing market landscape.
