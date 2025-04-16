@@ -43,7 +43,7 @@ Several preprocessing steps were performed to prepare the dataset for analysis:
 - Geocoded latitude/longitude data into physical addresses with **geopy**  
 
 ![Average rental prices for 1–4 room apartments across major cities  ](sql-real-estate-analysis
-/images/avg rent.png)
+/images/avg-rent.png)
 ---
 
 ##  How to Use
