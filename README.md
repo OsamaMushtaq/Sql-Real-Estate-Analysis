@@ -42,8 +42,7 @@ Several preprocessing steps were performed to prepare the dataset for analysis:
 - Translated property descriptions using the **Google Sheets API**  
 - Geocoded latitude/longitude data into physical addresses with **geopy**  
 
-![Average rental prices for 1–4 room apartments across major cities  ](sql-real-estate-analysis
-/images/avg-rent.png)
+![Average rental prices for 1–4 room apartments across major cities  ](sql-real-estate-analysis/images/avg-rent.png)
 ---
 
 ##  How to Use
